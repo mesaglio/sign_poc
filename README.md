@@ -1,1 +1,1 @@
-Bad signature
+Good signature
